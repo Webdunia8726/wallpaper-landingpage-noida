@@ -42,7 +42,7 @@
 
 .hero-section {
   min-height: 80vh;
-  background-image: url('/assets/img/hero2.webp');
+  background-image: url('./img/hero2.webp');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -94,7 +94,7 @@
  .btn-success,.btn-primary{
     background-color: #FF6F61;
   color: white;
-  padding: 12px 28px;
+  padding: 8px 18px;
   font-weight: 600;
   border-radius: 50px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
@@ -160,7 +160,7 @@
 /* CTA Section Styling */
 .cta-section {
   position: relative;
-  background-image: url('/assets/img/cta.jpg'); /* Replace with your image path */
+  background-image: url('./img/cta.jpg'); /* Replace with your image path */
   background-attachment: fixed; /* Keeps the background fixed while scrolling */
   background-position: center center; 
   background-repeat: no-repeat;
