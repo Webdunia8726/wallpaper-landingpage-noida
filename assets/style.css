@@ -380,7 +380,7 @@
 
 .custom-footer-text {
   font-size: 14px;
-  color: #b0bec5; /* Muted Text */
+  color: white; /* Muted Text */
 }
 
 .custom-footer-link {
@@ -396,6 +396,11 @@
   font-size: 14px;
   margin-bottom: 5px;
   color: #b0bec5; /* Muted List Text */
+  
+}
+.custom-footer-list a{
+  color: white;
+  text-decoration: none;
 }
 
 .custom-footer-divider {
